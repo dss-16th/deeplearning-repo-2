@@ -65,7 +65,9 @@ deeplearning project
 
 ### 3-1 데이터 전처리
 
-### 시각화
+### 3-2 DEEP:PHI
+
+### 3-3 모델 성능 평가
 
 ## 4. CONCLUSION
 
