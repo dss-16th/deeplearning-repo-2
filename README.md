@@ -1,2 +1,2 @@
-# deeplearning-repo-2
-deepnoid
+# Alzheimer's disease classification
+deeplearning project
