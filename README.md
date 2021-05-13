@@ -10,7 +10,7 @@ deeplearning project
 ## 1. INTRO
 
 ### 1-1 개요
-- Kaggle에서 제공한 MRI image 데이터를 활용한 딥러닝 프로젝트입니다.
+- Kaggle에서 제공한 알츠하이머 치매 MRI image 데이터를 활용한 딥러닝 프로젝트입니다.
 - 본 프로젝트에서는 Alzheimer와 Non-Alzheimer를 구분하였습니다.
 - 본 프로젝트의 목적은 DEEP:PHI 프로그램을 이용한 Alzheimer 분류 모델 성능을 비교하여 최적의 모델을 발견함에 있습니다.
 
