@@ -49,7 +49,7 @@ deeplearning project
   - https://github.com/leekj3133
   - 
 - [정다은]
-  - https://github.com/
+  - https://github.com/eunohh
   - 
 
 *****
