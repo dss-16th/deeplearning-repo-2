@@ -112,6 +112,8 @@ deeplearning project
 
 </br>
 
+![1](https://user-images.githubusercontent.com/78459269/120887390-7db87280-c62d-11eb-8849-92e4ce09a325.png)
+
 #### Result
 
 - Invert 전처리 기법을 사용한 경우 기존 모델보다 성능 좋음
@@ -143,7 +145,7 @@ deeplearning project
 
 ![1](https://user-images.githubusercontent.com/78459269/120887256-b4da5400-c62c-11eb-81c1-f56f75b986b3.png)
 
-#### Conclusion
+#### Result
 - 첫 번째 이미지와 두 번째 이미지에 각각 가중치를 곱하여 합치는 Overlap 방식의 Merge보다 같은 위치의 원소끼리 곱하여 더하는 Multiply 방식의 Merge가 더 성능이 좋음
 
   => 이미지를 Multiply 방식으로 merge하는 기법에 대한 연구방안을 제언함
