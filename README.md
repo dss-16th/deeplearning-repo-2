@@ -104,7 +104,7 @@ deeplearning project
 
 </br>
 
-#### Conclusion
+#### Result
 
 - Invert 전처리 기법을 사용한 경우 기존 모델보다 성능 좋음
 - Optimizer에서 SGD를 사용한 모델이 Adam을 사용한 모델보다 성능 좋음
