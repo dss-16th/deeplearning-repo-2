@@ -141,6 +141,8 @@ deeplearning project
 
 </br>
 
+![1](https://user-images.githubusercontent.com/78459269/120887256-b4da5400-c62c-11eb-81c1-f56f75b986b3.png)
+
 #### Conclusion
 - 첫 번째 이미지와 두 번째 이미지에 각각 가중치를 곱하여 합치는 Overlap 방식의 Merge보다 같은 위치의 원소끼리 곱하여 더하는 Multiply 방식의 Merge가 더 성능이 좋음
 
