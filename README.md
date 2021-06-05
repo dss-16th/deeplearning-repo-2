@@ -7,6 +7,8 @@ deeplearning project
 ***
 ## 1. INTRO
 
+<img width="1209" alt="스크린샷 2021-06-05 오후 6 29 10" src="https://user-images.githubusercontent.com/75352728/120887072-ec94cc00-c62b-11eb-93a6-97ab3a013225.png">
+
 보건복지부 결과에 따르면 알츠하이머 치매 유병률과 환자가 급증하고 있어 알츠하이머 치매 조기발견이 중요해지고 있습니다.
 
 현재 의료진은 MRI 이미지 판독 시 의료진마다 판단 기준이 달라 더욱 정확한 mri 이미지 판독이 필요합니다.
@@ -14,6 +16,7 @@ deeplearning project
 </br>
 
 ### 1-1 Purpose
+
 - Kaggle에서 제공한 알츠하이머 치매 MRI image 데이터를 활용한 딥러닝 프로젝트입니다.
 - 본 프로젝트에서는 Alzheimer와 Non-Alzheimer를 구분하였습니다.
 - 본 프로젝트의 목적은 DEEP:PHI를 사용하여 두가지 전처리 방법과 하이퍼 파라미터 튜닝을 통해 MRI 이미지 분류 CNN 모델 성능 향상입니다. 
