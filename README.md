@@ -1,3 +1,4 @@
+
 # Predict Alzheimer MRI Image Classification 
 
 <img width="737" alt="스크린샷 2021-06-05 오후 6 28 10" src="https://user-images.githubusercontent.com/75352728/120887051-c96a1c80-c62b-11eb-8da5-01ecf7335534.png">
@@ -26,6 +27,8 @@ deeplearning project
 </br>
 
 ### 1-2. CONCLUSION
+
+<img width="1372" alt="스크린샷 2021-06-05 오후 6 40 35" src="https://user-images.githubusercontent.com/75352728/120887397-8741da80-c62d-11eb-9b50-f715c71bad94.png">
 - VGG19모델에서 전처리 기법인 Invert를 활용한 연구방안을 제언
 - 사용했던 모델 뿐 아니라 Multiply Merge의 특징을 더 부각시킬 수 있는 모델을 찾아 성능을 개선시키는 연구를 제언
 
