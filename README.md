@@ -20,10 +20,18 @@ deeplearning project
 
 </br>
 
-### 1-2. Result
+### 1-2. CONCLUSION
+- VGG19모델에서 전처리 기법인 Invert를 활용한 연구방안을 제언
+- 사용했던 모델 뿐 아니라 Multiply Merge의 특징을 더 부각시킬 수 있는 모델을 찾아 성능을 개선시키는 연구를 제언
+
+<br>
 
 ### 1-3. DEEP:PHI
 
+- GUI 기반의 파이프라인 기술을 통해 코딩없이 직관적인 AI 모델 설계가 가능한 플랫폼 
+- 딥러닝 파이프라인을 블럭단위로 설정하여 학습
+
+<br>
 
 ### 1-4 데이터
 
@@ -125,6 +133,10 @@ deeplearning project
 
 </br>
 
+#### Conclusion
+
+- 
+
 ### 2-2 모델 
 
 </br>
@@ -191,9 +203,7 @@ Dense 층
 
 </br>
 
-## 3. CONCLUSION
-- VGG19모델에서 전처리 기법인 Invert를 활용한 연구방안을 제언
-- 사용했던 모델 뿐 아니라 Multiply Merge의 특징을 더 부각시킬 수 있는 모델을 찾아 성능을 개선시키는 연구를 제언
+
 
 </br>
 
