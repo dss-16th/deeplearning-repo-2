@@ -47,7 +47,7 @@ deeplearning project
   -
 - [이주영]
   - https://github.com/leekj3133
-  - 
+  - 팀장, 전처리 기법 Invert와 VGG19모델을 이용하여 알츠하이머 MRI Image Data 예측 모델 구축
 - [정다은]
   - https://github.com/eunohh
   - 
