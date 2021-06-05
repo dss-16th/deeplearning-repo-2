@@ -33,6 +33,8 @@ deeplearning project
 
 ### 1-3. DEEP:PHI
 
+<img width="192" alt="스크린샷 2021-05-29 오후 5 04 34" src="https://user-images.githubusercontent.com/75352728/120887113-0fbf7b80-c62c-11eb-82c5-93f597b03286.png">
+
 - GUI 기반의 파이프라인 기술을 통해 코딩없이 직관적인 AI 모델 설계가 가능한 플랫폼 
 - 딥러닝 파이프라인을 블럭단위로 설정하여 학습
 
