@@ -63,7 +63,8 @@ deeplearning project
   - 모델관련 하이퍼 파라미터 및 전체적인 파이프라인 논의
 - [이주영]
   - https://github.com/leekj3133
-  - 팀장, 전처리 기법 Invert와 VGG19모델을 이용하여 알츠하이머 MRI Image Data 예측 모델 구축
+  - --팀장--
+  - 전처리 기법 Invert와 VGG19모델을 이용하여 알츠하이머 MRI Image Data 예측 모델 구축
   - 모델관련 하이퍼 파라미터 및 전체적인 파이프라인 논의
 
 
