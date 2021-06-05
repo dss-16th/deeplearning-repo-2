@@ -124,7 +124,7 @@ deeplearning project
 #### 1-2. 사용 이유
 
 - 다수의 논문에서 조영술이나 x-ray Image에 Invert를 적용한 사례가 있음
-- but,  Mri 적용사례는 적어 알츠하이머 데이터에 적용시킴.
+- but,  Mri 적용사례는 적어 알츠하이머 데이터에 적용시킴
 
 - 뇌실의 크기와 뇌실의 주름색이 배경색과 같으므로 detection할때 방해가 있을거라 판단
 - 대뇌피질의 수축정도를 이용해서 학습시키면 성능이 올라갈거라 판단하여 사용
@@ -134,8 +134,19 @@ deeplearning project
 </br>
 
 #### Conclusion
+- 첫 번째 이미지와 두 번째 이미지에 각각 가중치를 곱하여 합치는 Overlap 방식의 Merge보다 같은 위치의 원소끼리 곱하여 더하는 Multiply 방식의 Merge가 더 성능이 좋음
 
-- 
+  => 이미지를 Multiply 방식으로 merge하는 기법에 대한 연구방안을 제언함
+  <br>  
+#### 2-1. 특징
+- Overlap Merge : 가중치에 따라 이미지의 밝기 정도를 개선
+- Multiply Merge : 대뇌 크기의 수축 정도를 개선시키는 기대감에 사용
+
+<br>
+
+#### 2-2. 사용 이유
+- Overlap Merge : 의료데이터를 이용한 kaggle 대회에서 이미지의 밝기를 개선시키는 전처리 기법으로 사용하여 참고
+- Multiply Merge : Overlap Merge와 비교하기 위함
 
 ### 2-2 모델 
 
@@ -193,17 +204,38 @@ Dense 층
 
 </br>
 
+#### 2-1. 구조
 
-#### 3. Inception resnet V2
+<br>
+
+layer층 
+- 이미지가 input되면 width(채널의 갯수), Dapth(신경망 깊이), resolution(해상도) 이 3가지의 scaling을 적절한 가중치에 맞춰 학습
+- 입력된 이미지에 convolutional 필터를 적용할수로 원본 이미지의 해상도는 줄어들고, 채널은 점점 올라감
 
 </br>
 
+#### 2-2. 특징 및 파라미터
 
-****************************
+<br/>
 
-</br>
+#### 2-2-1. 특징
 
+- 해당 이미지의 최적의 가중치를 찾아서 학습 (grid search방식)
+- 다양한 Layer를 구성 (MBConv 사용)
+- MBConv : 이미지의 정보를 효율적으로 전달하기 위해 다양한 Layer로 구성하게 만드는 다른 이미지 모델에서 쓰이는 Conv
 
+#### 2-2-2. 사용 이유
+- 최근 ImageNet 학습에서 성능이 좋게나온 논문을 근거로 함
+
+#### 2-2-3. 파라미터 (논문을 기반으로 동일하게 적용)
+- epoch : 20
+- batch size : 32 
+- Augmentation 유/무 
+  - drop out(0.25)
+  - Zoom
+  - Rotate
+- Optimizer
+  - ADAM
 
 </br>
 
