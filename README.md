@@ -298,11 +298,14 @@ layer층
 - MBConv : 이미지의 정보를 효율적으로 전달하기 위해 다양한 Layer로 구성하게 만드는 다른 이미지 모델에서 쓰이는 Conv
 
 
-<img width="1301" alt="스크린샷 2021-06-06 오후 8 42 17" src="https://user-images.githubusercontent.com/75352728/120923101-af9e0780-c707-11eb-9c4d-92f083d5a998.png">
+
 
 
 
 #### 2-2-2. 사용 이유
+
+<img width="1301" alt="스크린샷 2021-06-06 오후 8 42 17" src="https://user-images.githubusercontent.com/75352728/120923101-af9e0780-c707-11eb-9c4d-92f083d5a998.png">
+
 - 최근 ImageNet 학습에서 성능이 좋게나온 논문을 근거로 함
 
 <img width="660" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
