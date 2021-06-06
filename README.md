@@ -308,8 +308,11 @@ layer층
 
 - 최근 ImageNet 학습에서 성능이 좋게나온 논문을 근거로 함
 
-<img width="550" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
+<br/>
 
+<img width="500" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
+
+<br/>
 
 #### 2-2-3. 파라미터 (논문을 기반으로 동일하게 적용)
 
