@@ -85,7 +85,7 @@ deeplearning project
 #### 5. 성능 지표
 
 
-<img width="700" alt="스크린샷 2021-06-06 오후 7 28 10" src="https://user-images.githubusercontent.com/75352728/120921154-55984480-c6fd-11eb-869e-e7ed6c441b0c.png">
+<img width="500" alt="스크린샷 2021-06-06 오후 7 28 10" src="https://user-images.githubusercontent.com/75352728/120921154-55984480-c6fd-11eb-869e-e7ed6c441b0c.png">
 
 - sensitivity :  의료 데이터의 중요 지표 
 - Accuracy:  얼마나 정확하게 분류를 하는지 판단하는 지표
@@ -124,7 +124,7 @@ deeplearning project
 
 </br>
 
-<img width="700" alt="스크린샷 2021-06-06 오후 7 29 56" src="https://user-images.githubusercontent.com/75352728/120921222-95f7c280-c6fd-11eb-8ba9-6fa1b390ed33.png">
+<img width="500" alt="스크린샷 2021-06-06 오후 7 29 56" src="https://user-images.githubusercontent.com/75352728/120921222-95f7c280-c6fd-11eb-8ba9-6fa1b390ed33.png">
 
 
 
@@ -166,7 +166,7 @@ deeplearning project
 
 </br>
 
-<img width="700" alt="스크린샷 2021-06-06 오후 7 32 00" src="https://user-images.githubusercontent.com/75352728/120921269-df481200-c6fd-11eb-903c-97c85f7d3a14.png">
+<img width="500" alt="스크린샷 2021-06-06 오후 7 32 00" src="https://user-images.githubusercontent.com/75352728/120921269-df481200-c6fd-11eb-903c-97c85f7d3a14.png">
 
 #### Result
 - 첫 번째 이미지와 두 번째 이미지에 각각 가중치를 곱하여 합치는 Overlap 방식의 Merge보다 같은 위치의 원소끼리 곱하여 더하는 Multiply 방식의 Merge가 더 성능이 좋음
@@ -175,7 +175,7 @@ deeplearning project
   <br>  
 #### 2-1. 특징
 
-<img width="700" alt="스크린샷 2021-06-06 오후 7 36 07" src="https://user-images.githubusercontent.com/75352728/120921401-70b78400-c6fe-11eb-9f64-abeda9aa0e3d.png">
+<img width="500" alt="스크린샷 2021-06-06 오후 7 36 07" src="https://user-images.githubusercontent.com/75352728/120921401-70b78400-c6fe-11eb-9f64-abeda9aa0e3d.png">
 
 
 - Overlap Merge : 가중치에 따라 이미지의 밝기 정도를 개선
@@ -186,7 +186,7 @@ deeplearning project
 #### 2-2. 사용 이유
 
 
-<img width="700" alt="스크린샷 2021-06-06 오후 7 34 57" src="https://user-images.githubusercontent.com/75352728/120921363-482f8a00-c6fe-11eb-8d9b-2db1d9ce50c6.png">
+<img width="500" alt="스크린샷 2021-06-06 오후 7 34 57" src="https://user-images.githubusercontent.com/75352728/120921363-482f8a00-c6fe-11eb-8d9b-2db1d9ce50c6.png">
 
 
 - Overlap Merge : 의료데이터를 이용한 kaggle 대회에서 이미지의 밝기를 개선시키는 전처리 기법으로 사용하여 참고
@@ -204,7 +204,7 @@ deeplearning project
 
 </br>
 
-<img width="700" alt="스크린샷 2021-06-06 오후 7 39 17" src="https://user-images.githubusercontent.com/75352728/120921487-e3286400-c6fe-11eb-8ace-6f3703aa4097.png">
+<img width="500" alt="스크린샷 2021-06-06 오후 7 39 17" src="https://user-images.githubusercontent.com/75352728/120921487-e3286400-c6fe-11eb-8ace-6f3703aa4097.png">
 
 
 </br>
