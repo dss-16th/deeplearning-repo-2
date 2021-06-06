@@ -202,6 +202,8 @@ deeplearning project
 
 #### 1-1. 구조
 
+</br>
+
 <img width="700" alt="스크린샷 2021-06-06 오후 7 39 17" src="https://user-images.githubusercontent.com/75352728/120921487-e3286400-c6fe-11eb-8ace-6f3703aa4097.png">
 
 
