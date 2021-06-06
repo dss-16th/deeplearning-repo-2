@@ -361,7 +361,16 @@ layer층
 - 시간과 GPU가 부족해 원하는 많은 모델을 학습시키는데 한정적
 - Train Result와 초기 입력한 Parameter가 저장되지 않아(파이프라인을 다시 실행할 경우) 추가 저장하지 않으면 유실될 가능성 있음
 - Test Result를 DEEP:PHI 내에서만 결과를 볼 수 있어 불편
+
+<br/>
+
+<img width="1378" alt="스크린샷 2021-06-06 오후 9 02 11" src="https://user-images.githubusercontent.com/75352728/120923608-77e48f00-c70a-11eb-80b7-851c38cfd5d0.png">
+
+
 - 데이터 출처에 대한 정확한 정보가 없기 때문에 이를 알아보기 위해 discussion을 찾아 보았으며, 이전에 각종 질문이 있었으나 정작 원작자 본인으로부터 답변을 받지 못함 (신뢰성 부족)
+
+<img width="457" alt="스크린샷 2021-06-06 오후 9 02 37" src="https://user-images.githubusercontent.com/75352728/120923623-8632ab00-c70a-11eb-9c6b-0411382b4ea7.png">
+
 - 출처가 정확한 데이터가 필요하였고, ADNI 사이트에서 신청하였지만 계속해서 승인대기중인 상태
 
 *********
