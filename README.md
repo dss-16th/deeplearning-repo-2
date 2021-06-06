@@ -186,7 +186,7 @@ deeplearning project
 #### 2-2. 사용 이유
 
 
-<img width="1189" alt="스크린샷 2021-06-06 오후 7 34 57" src="https://user-images.githubusercontent.com/75352728/120921363-482f8a00-c6fe-11eb-8d9b-2db1d9ce50c6.png">
+<img width="700" alt="스크린샷 2021-06-06 오후 7 34 57" src="https://user-images.githubusercontent.com/75352728/120921363-482f8a00-c6fe-11eb-8d9b-2db1d9ce50c6.png">
 
 
 - Overlap Merge : 의료데이터를 이용한 kaggle 대회에서 이미지의 밝기를 개선시키는 전처리 기법으로 사용하여 참고
