@@ -231,6 +231,9 @@ deeplearning project
 - Overlap Merge : 의료데이터를 이용한 kaggle 대회에서 이미지의 밝기를 개선시키는 전처리 기법으로 사용하여 참고
 - Multiply Merge : Overlap Merge와 비교하기 위함
 
+<br/>
+<br/>
+
 ### 2-2 모델 
 
 </br>
