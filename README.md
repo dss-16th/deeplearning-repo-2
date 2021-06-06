@@ -123,7 +123,7 @@ deeplearning project
 
 </br>
 
-<img width="1000" alt="스크린샷 2021-06-06 오후 7 29 56" src="https://user-images.githubusercontent.com/75352728/120921222-95f7c280-c6fd-11eb-8ba9-6fa1b390ed33.png">
+<img width="700" alt="스크린샷 2021-06-06 오후 7 29 56" src="https://user-images.githubusercontent.com/75352728/120921222-95f7c280-c6fd-11eb-8ba9-6fa1b390ed33.png">
 
 
 
