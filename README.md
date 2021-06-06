@@ -1,5 +1,4 @@
 
-
 # Predict Alzheimer MRI Image Classification 
 
 <img width="737" alt="스크린샷 2021-06-05 오후 6 28 10" src="https://user-images.githubusercontent.com/75352728/120887051-c96a1c80-c62b-11eb-8da5-01ecf7335534.png">
@@ -124,7 +123,9 @@ deeplearning project
 
 </br>
 
-![1](https://user-images.githubusercontent.com/78459269/120887390-7db87280-c62d-11eb-8849-92e4ce09a325.png)
+<img width="1000" alt="스크린샷 2021-06-06 오후 7 29 56" src="https://user-images.githubusercontent.com/75352728/120921222-95f7c280-c6fd-11eb-8ba9-6fa1b390ed33.png">
+
+
 
 #### Result
 
