@@ -118,7 +118,7 @@ deeplearning project
 <br/>
 
 - [류승환]
-  -  https://github.com/
+  -  https://github.com/ryuseunghwan1
   - 전처리 기법 중 Merge를 Overlap 방식과 Multiply 방식 비교
   - Multiply방식의 Merge를 이용한 모델들간의 성능 비교
   - 모델관련 하이퍼 파라미터 및 전체적인 파이프라인 논의
