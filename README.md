@@ -1,4 +1,5 @@
 
+
 # Predict Alzheimer MRI Image Classification 
 
 <img width="737" alt="스크린샷 2021-06-05 오후 6 28 10" src="https://user-images.githubusercontent.com/75352728/120887051-c96a1c80-c62b-11eb-8da5-01ecf7335534.png">
@@ -156,7 +157,7 @@ deeplearning project
 
 </br>
 
-![1](https://user-images.githubusercontent.com/78459269/120887256-b4da5400-c62c-11eb-81c1-f56f75b986b3.png)
+<img width="700" alt="스크린샷 2021-06-06 오후 7 32 00" src="https://user-images.githubusercontent.com/75352728/120921269-df481200-c6fd-11eb-903c-97c85f7d3a14.png">
 
 #### Result
 - 첫 번째 이미지와 두 번째 이미지에 각각 가중치를 곱하여 합치는 Overlap 방식의 Merge보다 같은 위치의 원소끼리 곱하여 더하는 Multiply 방식의 Merge가 더 성능이 좋음
