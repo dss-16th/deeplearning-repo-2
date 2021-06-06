@@ -58,6 +58,10 @@ deeplearning project
 
 #### 3. 데이터 정보
 
+
+<img width="680" alt="스크린샷 2021-06-06 오후 7 26 29" src="https://user-images.githubusercontent.com/75352728/120921116-19fd7a80-c6fd-11eb-8ef0-b1d7d6ae65d4.png">
+
+
 - 뇌 MRI (뇌를 가로횡당면으로 자른 MRI 데이터)
 - IMAGE
   - shape	: [200,176}
