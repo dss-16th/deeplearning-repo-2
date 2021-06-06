@@ -234,6 +234,8 @@ deeplearning project
 <br/>
 <br/>
 
+****
+
 ### 2-2 모델 
 
 </br>
