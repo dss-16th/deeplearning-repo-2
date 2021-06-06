@@ -211,8 +211,12 @@ layer층
 - 활성화 함수로 ReLU를 사용하는 3by3 convolutional filter와 2x2 max pooling filter로  구성
 - 입력된 이미지가 이 layer층을 지나면 이미지 사이즈는 1/2 줄어들고, depth는 깊어짐
  이 때, 그림과 같이 depth가 64, 128, 256, 512로 점점 깊어져 가는 형태
+ 
+ 
 flatten 층
 - 1차원으로 변환되어 Dense층 거침
+
+
 Dense 층
 - 활성화함수로 Softmax 사용 ,dense size는 4096인 두개의 dense 층
 - 이 모델이 만들어질 때 사용했던 데이터인 ImageNet의 class의 개수인 1000이 Dense size로 설정
