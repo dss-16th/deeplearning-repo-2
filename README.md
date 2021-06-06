@@ -29,13 +29,20 @@ deeplearning project
 
 ### 1-2. CONCLUSION
 
+<br/>
+
 <img width="1372" alt="스크린샷 2021-06-05 오후 6 45 06" src="https://user-images.githubusercontent.com/75352728/120887489-2797ff00-c62e-11eb-8c29-6806a8e544e0.png">
+
+<br/>
+
 - VGG19모델에서 전처리 기법인 Invert를 활용한 연구방안 제언
 - 사용했던 모델 뿐 아니라 Multiply Merge의 특징을 더 부각시킬 수 있는 모델을 찾아 성능을 개선시키는 연구 제언
 
 <br>
 
 ### 1-3. DEEP:PHI
+
+<br/>
 
 ![1](https://user-images.githubusercontent.com/78459269/120887158-3e3d5680-c62c-11eb-87c6-24137c401715.png)
 
@@ -58,9 +65,11 @@ deeplearning project
 
 #### 3. 데이터 정보
 
+<br/>
 
 <img width="400" alt="스크린샷 2021-06-06 오후 7 26 29" src="https://user-images.githubusercontent.com/75352728/120921116-19fd7a80-c6fd-11eb-8ef0-b1d7d6ae65d4.png">
 
+<br/>
 
 - 뇌 MRI (뇌를 가로횡당면으로 자른 MRI 데이터)
 - IMAGE
@@ -84,6 +93,7 @@ deeplearning project
 
 #### 5. 성능 지표
 
+<br/>
 
 <img width="500" alt="스크린샷 2021-06-06 오후 7 28 10" src="https://user-images.githubusercontent.com/75352728/120921154-55984480-c6fd-11eb-869e-e7ed6c441b0c.png">
 
@@ -139,6 +149,8 @@ deeplearning project
 
 	=> 전처리 Invert를 활용한 관련 연구 방안 제언
 
+<br/>
+
 #### 1-1. 특징
 
 
@@ -152,14 +164,20 @@ deeplearning project
 
 #### 1-2. 사용 이유
 
+<br/>
+
 
 - 다수의 논문에서 조영술이나 x-ray Image에 Invert를 적용한 사례가 있음
 - but,  Mri 적용사례는 적어 알츠하이머 데이터에 적용시킴
+
+<br/>
 
 <img width="450" alt="스크린샷 2021-06-06 오후 7 33 43" src="https://user-images.githubusercontent.com/75352728/120921318-1ae2dc00-c6fe-11eb-8c57-13c00e57aeb2.png">
 
 - 뇌실의 크기와 뇌실의 주름색이 배경색과 같으므로 detection할때 방해가 있을거라 판단
 - 대뇌피질의 수축정도를 이용해서 학습시키면 성능이 올라갈거라 판단하여 사용
+
+<br/>
 
 #### 2. Merge
 
@@ -171,7 +189,9 @@ deeplearning project
 - 첫 번째 이미지와 두 번째 이미지에 각각 가중치를 곱하여 합치는 Overlap 방식의 Merge보다 같은 위치의 원소끼리 곱하여 더하는 Multiply 방식의 Merge가 더 성능이 좋음
 
   => 이미지를 Multiply 방식으로 merge하는 기법에 대한 연구방안을 제언함
+  
   <br>  
+  
 #### 2-1. 특징
 
 
@@ -230,7 +250,6 @@ Dense 층
 
 <img width="450" alt="스크린샷 2021-06-06 오후 7 36 27" src="https://user-images.githubusercontent.com/75352728/120921411-7f05a000-c6fe-11eb-93a4-b7c7128005c8.png">
 
-
 <br/>
 
 #### 1-2-1. 특징
@@ -261,7 +280,8 @@ Dense 층
 
 
 
-</br>
+<br/>
+<br/>
 
 #### 2. Efficient Net
 
