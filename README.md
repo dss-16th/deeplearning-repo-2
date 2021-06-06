@@ -143,7 +143,7 @@ deeplearning project
 
 
 
-<img width="500" alt="스크린샷 2021-06-06 오후 7 33 20" src="https://user-images.githubusercontent.com/75352728/120921306-0e5e8380-c6fe-11eb-9082-6ea41cba647b.png">
+<img width="450" alt="스크린샷 2021-06-06 오후 7 33 20" src="https://user-images.githubusercontent.com/75352728/120921306-0e5e8380-c6fe-11eb-9082-6ea41cba647b.png">
 
 - 중요한 영역이 주변보다 어두운 경우, 반전된 이미지를 이용하여 feature 추출 용이
 - 이미지 상에서 검은색 부위를 하얀색부분으로 하얀색부분을 검은색 부분으로 반전
@@ -152,7 +152,7 @@ deeplearning project
 
 #### 1-2. 사용 이유
 
-<img width="500" alt="스크린샷 2021-06-06 오후 7 36 27" src="https://user-images.githubusercontent.com/75352728/120921411-7f05a000-c6fe-11eb-93a4-b7c7128005c8.png">
+<img width="450" alt="스크린샷 2021-06-06 오후 7 36 27" src="https://user-images.githubusercontent.com/75352728/120921411-7f05a000-c6fe-11eb-93a4-b7c7128005c8.png">
 
 - 다수의 논문에서 조영술이나 x-ray Image에 Invert를 적용한 사례가 있음
 - but,  Mri 적용사례는 적어 알츠하이머 데이터에 적용시킴
