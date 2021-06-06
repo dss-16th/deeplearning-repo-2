@@ -266,17 +266,17 @@ Dense 층
 
 #### 2-1. 구조
 
+****
 
+<br>
+
+<img width="800" alt="스크린샷 2021-06-06 오후 8 40 39" src="https://user-images.githubusercontent.com/75352728/120923066-76659780-c707-11eb-9e46-83a580eaef07.png">
 
 <br>
 
 <img width="826" alt="스크린샷 2021-06-06 오후 8 39 37" src="https://user-images.githubusercontent.com/75352728/120923034-50d88e00-c707-11eb-85d8-260c59f542cc.png">
 
 <br>
-
-
-<img width="800" alt="스크린샷 2021-06-06 오후 8 40 39" src="https://user-images.githubusercontent.com/75352728/120923066-76659780-c707-11eb-9e46-83a580eaef07.png">
-
 
 layer층 
 - 이미지가 input되면 width(채널의 갯수), Dapth(신경망 깊이), resolution(해상도) 이 3가지의 scaling을 적절한 가중치에 맞춰 학습
