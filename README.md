@@ -241,6 +241,9 @@ Dense 층
 - VGG16보다 layer추가로 인한 성능이 올라가기 때문
 
 #### 1-2-3. 파라미터
+
+<img width="1378" alt="스크린샷 2021-06-06 오후 8 48 21" src="https://user-images.githubusercontent.com/75352728/120923252-892c9c00-c708-11eb-8ae1-b7173475cdfc.png">
+
 - Epoch :  50
 - Batch size : 16, 25 
 - Dropout 사용 유무
@@ -252,13 +255,28 @@ Dense 층
   - So, SGD 사용
       - Adam은 SGD보다 탄력적인 일반화가 되지않고 학습이 포화 되어 성능이 낮다고 판단 
 
+
+
+
+</br>
+
 #### 2. Efficient Net
 
 </br>
 
 #### 2-1. 구조
 
+
+
 <br>
+
+<img width="826" alt="스크린샷 2021-06-06 오후 8 39 37" src="https://user-images.githubusercontent.com/75352728/120923034-50d88e00-c707-11eb-85d8-260c59f542cc.png">
+
+<br>
+
+
+<img width="800" alt="스크린샷 2021-06-06 오후 8 40 39" src="https://user-images.githubusercontent.com/75352728/120923066-76659780-c707-11eb-9e46-83a580eaef07.png">
+
 
 layer층 
 - 이미지가 input되면 width(채널의 갯수), Dapth(신경망 깊이), resolution(해상도) 이 3가지의 scaling을 적절한 가중치에 맞춰 학습
@@ -279,8 +297,16 @@ layer층
 - 다양한 Layer를 구성 (MBConv 사용)
 - MBConv : 이미지의 정보를 효율적으로 전달하기 위해 다양한 Layer로 구성하게 만드는 다른 이미지 모델에서 쓰이는 Conv
 
+
+<img width="1301" alt="스크린샷 2021-06-06 오후 8 42 17" src="https://user-images.githubusercontent.com/75352728/120923101-af9e0780-c707-11eb-9c4d-92f083d5a998.png">
+
+
+
 #### 2-2-2. 사용 이유
 - 최근 ImageNet 학습에서 성능이 좋게나온 논문을 근거로 함
+
+<img width="660" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
+
 
 #### 2-2-3. 파라미터 (논문을 기반으로 동일하게 적용)
 - epoch : 20
