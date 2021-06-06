@@ -83,6 +83,10 @@ deeplearning project
 - 대표적인 증상을 기준으로 판단
 
 #### 5. 성능 지표
+
+
+<img width="1021" alt="스크린샷 2021-06-06 오후 7 28 10" src="https://user-images.githubusercontent.com/75352728/120921154-55984480-c6fd-11eb-869e-e7ed6c441b0c.png">
+
 - sensitivity :  의료 데이터의 중요 지표 
 - Accuracy:  얼마나 정확하게 분류를 하는지 판단하는 지표
 
