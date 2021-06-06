@@ -182,6 +182,8 @@ deeplearning project
 
 #### 2-2. 사용 이유
 
+<br/>
+
 
 <img width="700" alt="스크린샷 2021-06-06 오후 7 34 57" src="https://user-images.githubusercontent.com/75352728/120921363-482f8a00-c6fe-11eb-8d9b-2db1d9ce50c6.png">
 
@@ -224,6 +226,7 @@ Dense 층
 
 #### 1-2. 특징 및 파라미터
 
+<br/>
 
 <img width="450" alt="스크린샷 2021-06-06 오후 7 36 27" src="https://user-images.githubusercontent.com/75352728/120921411-7f05a000-c6fe-11eb-93a4-b7c7128005c8.png">
 
@@ -286,6 +289,8 @@ layer층
 
 #### 2-2. 특징 및 파라미터
 
+<br/>
+
 <img width="700" alt="스크린샷 2021-06-06 오후 7 36 07" src="https://user-images.githubusercontent.com/75352728/120921401-70b78400-c6fe-11eb-9f64-abeda9aa0e3d.png">
 
 
@@ -299,10 +304,9 @@ layer층
 
 
 
-
-
-
 #### 2-2-2. 사용 이유
+
+<br/>
 
 <img width="550" alt="스크린샷 2021-06-06 오후 8 42 17" src="https://user-images.githubusercontent.com/75352728/120923101-af9e0780-c707-11eb-9c4d-92f083d5a998.png">
 
