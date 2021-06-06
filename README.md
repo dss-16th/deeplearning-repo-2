@@ -7,9 +7,16 @@
 deeplearning project
 
 ***
+
+<br/>
+
 ## 1. INTRO
 
+<br/>
+
 <img width="1209" alt="스크린샷 2021-06-05 오후 6 29 10" src="https://user-images.githubusercontent.com/75352728/120887072-ec94cc00-c62b-11eb-93a6-97ab3a013225.png">
+
+<br/>
 
 보건복지부 결과에 따르면 알츠하이머 치매 유병률과 환자가 급증하고 있어 알츠하이머 치매 조기발견 중요
 
@@ -54,6 +61,8 @@ deeplearning project
 
 ### 1-4 데이터
 
+<br/>
+
 #### 1. 출처
   - kaggle : Alzheimer_binaryclassification
   - 링크1 : https://www.kaggle.com/smiti14/alzheimer-binaryclassification
@@ -91,6 +100,8 @@ deeplearning project
 - 알츠하이머 치매 환자의 대표적인 증상:  뇌실의 크기 변화와 대뇌피질의 수축 
 - 대표적인 증상을 기준으로 판단
 
+<br/>
+
 #### 5. 성능 지표
 
 <br/>
@@ -104,11 +115,16 @@ deeplearning project
 
 ### 1-5 팀원 / 역할
 
+<br/>
+
 - [류승환]
   -  https://github.com/
   - 전처리 기법 중 Merge를 Overlap 방식과 Multiply 방식 비교
   - Multiply방식의 Merge를 이용한 모델들간의 성능 비교
   - 모델관련 하이퍼 파라미터 및 전체적인 파이프라인 논의
+
+<br/>
+
 - [이주영]
   - https://github.com/leekj3133
   - **팀장**
@@ -154,7 +170,7 @@ deeplearning project
 
 #### 1-1. 특징
 
-
+<br/>
 
 <img width="450" alt="스크린샷 2021-06-06 오후 7 33 20" src="https://user-images.githubusercontent.com/75352728/120921306-0e5e8380-c6fe-11eb-9082-6ea41cba647b.png">
 
@@ -188,6 +204,7 @@ deeplearning project
 
 #### Result
 
+<br/>
 
 - 첫 번째 이미지와 두 번째 이미지에 각각 가중치를 곱하여 합치는 Overlap 방식의 Merge보다 같은 위치의 원소끼리 곱하여 더하는 Multiply 방식의 Merge가 더 성능이 좋음
 
@@ -267,7 +284,10 @@ Dense 층
 
 #### 1-2-3. 파라미터
 
+<br/>
+
 <img width="1378" alt="스크린샷 2021-06-06 오후 8 48 21" src="https://user-images.githubusercontent.com/75352728/120923252-892c9c00-c708-11eb-8ae1-b7173475cdfc.png">
+
 
 - Epoch :  50
 - Batch size : 16, 25 
@@ -292,7 +312,6 @@ Dense 층
 
 #### 2-1. 구조
 
-****
 
 <br>
 
@@ -337,13 +356,13 @@ layer층
 
 <br/>
 
-<img width="500" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
+<img width="450" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
 
 <br/>
 
 #### 2-2-3. 파라미터 (논문을 기반으로 동일하게 적용)
 
-<img width="700" alt="스크린샷 2021-06-06 오후 8 54 39" src="https://user-images.githubusercontent.com/75352728/120923421-6a7ad500-c709-11eb-9c55-d0597f175fd0.png">
+<img width="650" alt="스크린샷 2021-06-06 오후 8 54 39" src="https://user-images.githubusercontent.com/75352728/120923421-6a7ad500-c709-11eb-9c55-d0597f175fd0.png">
 
 
 - epoch : 20
@@ -358,6 +377,7 @@ layer층
 </br>
 
 *********
+
 </br>
 
 ## 4. comment & limitations
