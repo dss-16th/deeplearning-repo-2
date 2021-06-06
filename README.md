@@ -157,7 +157,7 @@ deeplearning project
 - 다수의 논문에서 조영술이나 x-ray Image에 Invert를 적용한 사례가 있음
 - but,  Mri 적용사례는 적어 알츠하이머 데이터에 적용시킴
 
-<img width="500" alt="스크린샷 2021-06-06 오후 7 33 43" src="https://user-images.githubusercontent.com/75352728/120921318-1ae2dc00-c6fe-11eb-8c57-13c00e57aeb2.png">
+<img width="450" alt="스크린샷 2021-06-06 오후 7 33 43" src="https://user-images.githubusercontent.com/75352728/120921318-1ae2dc00-c6fe-11eb-8c57-13c00e57aeb2.png">
 
 - 뇌실의 크기와 뇌실의 주름색이 배경색과 같으므로 detection할때 방해가 있을거라 판단
 - 대뇌피질의 수축정도를 이용해서 학습시키면 성능이 올라갈거라 판단하여 사용
