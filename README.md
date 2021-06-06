@@ -270,11 +270,11 @@ Dense 층
 
 <br>
 
-<img width="700" alt="스크린샷 2021-06-06 오후 8 40 39" src="https://user-images.githubusercontent.com/75352728/120923066-76659780-c707-11eb-9e46-83a580eaef07.png">
+<img width="600" alt="스크린샷 2021-06-06 오후 8 40 39" src="https://user-images.githubusercontent.com/75352728/120923066-76659780-c707-11eb-9e46-83a580eaef07.png">
 
 <br>
 
-<img width="700" alt="스크린샷 2021-06-06 오후 8 39 37" src="https://user-images.githubusercontent.com/75352728/120923034-50d88e00-c707-11eb-85d8-260c59f542cc.png">
+<img width="600" alt="스크린샷 2021-06-06 오후 8 39 37" src="https://user-images.githubusercontent.com/75352728/120923034-50d88e00-c707-11eb-85d8-260c59f542cc.png">
 
 <br>
 
@@ -286,7 +286,7 @@ layer층
 
 #### 2-2. 특징 및 파라미터
 
-<img width="700" alt="스크린샷 2021-06-06 오후 7 36 07" src="https://user-images.githubusercontent.com/75352728/120921401-70b78400-c6fe-11eb-9f64-abeda9aa0e3d.png">
+<img width="600" alt="스크린샷 2021-06-06 오후 7 36 07" src="https://user-images.githubusercontent.com/75352728/120921401-70b78400-c6fe-11eb-9f64-abeda9aa0e3d.png">
 
 
 <br/>
@@ -304,16 +304,16 @@ layer층
 
 #### 2-2-2. 사용 이유
 
-<img width="700" alt="스크린샷 2021-06-06 오후 8 42 17" src="https://user-images.githubusercontent.com/75352728/120923101-af9e0780-c707-11eb-9c4d-92f083d5a998.png">
+<img width="600" alt="스크린샷 2021-06-06 오후 8 42 17" src="https://user-images.githubusercontent.com/75352728/120923101-af9e0780-c707-11eb-9c4d-92f083d5a998.png">
 
 - 최근 ImageNet 학습에서 성능이 좋게나온 논문을 근거로 함
 
-<img width="660" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
+<img width="600" alt="스크린샷 2021-06-06 오후 8 42 42" src="https://user-images.githubusercontent.com/75352728/120923116-bf1d5080-c707-11eb-8b64-caf682443712.png">
 
 
 #### 2-2-3. 파라미터 (논문을 기반으로 동일하게 적용)
 
-<img width="1000" alt="스크린샷 2021-06-06 오후 8 54 39" src="https://user-images.githubusercontent.com/75352728/120923421-6a7ad500-c709-11eb-9c55-d0597f175fd0.png">
+<img width="700" alt="스크린샷 2021-06-06 오후 8 54 39" src="https://user-images.githubusercontent.com/75352728/120923421-6a7ad500-c709-11eb-9c55-d0597f175fd0.png">
 
 
 - epoch : 20
