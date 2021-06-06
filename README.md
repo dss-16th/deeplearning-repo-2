@@ -152,7 +152,6 @@ deeplearning project
 
 #### 1-2. 사용 이유
 
-<img width="450" alt="스크린샷 2021-06-06 오후 7 36 27" src="https://user-images.githubusercontent.com/75352728/120921411-7f05a000-c6fe-11eb-93a4-b7c7128005c8.png">
 
 - 다수의 논문에서 조영술이나 x-ray Image에 Invert를 적용한 사례가 있음
 - but,  Mri 적용사례는 적어 알츠하이머 데이터에 적용시킴
@@ -228,6 +227,7 @@ Dense 층
 #### 1-2. 특징 및 파라미터
 
 
+<img width="450" alt="스크린샷 2021-06-06 오후 7 36 27" src="https://user-images.githubusercontent.com/75352728/120921411-7f05a000-c6fe-11eb-93a4-b7c7128005c8.png">
 
 <br/>
 
